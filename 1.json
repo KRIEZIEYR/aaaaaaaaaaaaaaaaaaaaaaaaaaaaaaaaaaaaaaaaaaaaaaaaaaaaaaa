@@ -24,7 +24,7 @@
                             {
                                 "encryption": "none",
                                 "flow": "xtls-rprx-vision",
-                                "id": "011a87ee-cc4d-43aa-8682-ac6c6cf968d2"
+                                "id": "40ad398e-391a-49b3-aeed-8195e479c584"
                             }
                         ]
                     }
@@ -44,3 +44,4 @@
         }
     ]
 }
+
